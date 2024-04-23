@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Josua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\Josua\\Documents\\GitHub\\C-\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josua\\AppData\\Roaming\\NuGet\\NuGet.Config"
